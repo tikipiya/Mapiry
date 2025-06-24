@@ -295,4 +295,4 @@ except APIError as e:
 
 ---
 
-Made by [tikisn](https://github.com/tikipiya)
+Made by [tikisan](https://github.com/tikipiya)

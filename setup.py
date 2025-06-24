@@ -13,7 +13,7 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="mapiry",
     version="1.0.0",
-    author="tikisn",
+    author="tikisan",
     author_email="s2501082@sendai-nct.jp",
     description="A comprehensive Python SDK for Mapillary API v4",
     long_description=long_description,
