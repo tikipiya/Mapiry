@@ -296,3 +296,4 @@ except APIError as e:
 ---
 
 Made by [tikisan](https://github.com/tikipiya)
+是非使ってね。
